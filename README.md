@@ -12,7 +12,7 @@
   limitations under the License. See accompanying LICENSE file.
 -->
 
-My Tez
+Apache Tez
 ==========
 
 Apache Tez is a generic data-processing pipeline engine envisioned as a low-level engine for higher abstractions
